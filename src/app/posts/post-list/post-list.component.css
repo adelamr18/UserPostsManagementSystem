@@ -1,0 +1,20 @@
+mat-accordion{
+margin-top: 1rem;
+display: block;
+}
+.info-body{
+text-align:center
+}
+mat-spinner{
+  margin: auto;
+  }
+.posts-image{
+width:100%;
+}
+.posts-image img {
+  width:100%;
+  box-shadow: 1px 1px 5px rgba(0,0,0.5);
+}
+mat-paginator{
+margin-top:1rem;
+}
